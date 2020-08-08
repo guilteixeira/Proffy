@@ -4,4 +4,9 @@
         "page",
         "page landing"
     ]
+    
 }
+
+"editor.insertSpaces": false,
+"editor.tabSize": 1,
+"editor.detectIndentation": false,
